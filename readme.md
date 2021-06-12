@@ -1,8 +1,4 @@
-Action buttons: delete, edit, done;
-Task done: strike through task;
-JS: jQuery: 
-- creat, 
-- update, 
-- remove,
-- change status,
-Publish to server
+Todo List with add, mark done, delete and filter action (edit will be added later), also save to local storage
+Technology: vanilla JS, Bootstrap
+Teamsize: 1
+Author: Ngan Luu
